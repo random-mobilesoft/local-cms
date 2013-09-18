@@ -440,7 +440,7 @@ ul.secondary a.active {
  */
 
 .block {
-  margin-bottom: 1.5em;
+
 }
 
 /**
@@ -556,7 +556,7 @@ ul.nice-menu li.active-trail a{
 #widget_pager_bottom_slider-block {
     position: relative;
     margin: -25px auto;
-    z-index: 999;
+    z-index: 99;
     width: 1000px;
     text-align: center;
     overflow: hidden;
@@ -624,12 +624,13 @@ ul.nice-menu li.active-trail a{
 }
 
 .social {
-    height: 70px;
+    height: 55px;
     text-align: center;
+    clear: both;
 }
 
 .footer_copyright {
-    height: 24px;
+    height: 14px;
     text-align: center;
 }
 
