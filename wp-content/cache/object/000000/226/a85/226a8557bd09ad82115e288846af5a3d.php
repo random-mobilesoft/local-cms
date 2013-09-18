@@ -1,1 +1,0 @@
-%f7R<?php exit; ?>a:1:{s:7:"content";s:240:"a:3:{s:45:"pronamic-google-maps/pronamic-google-maps.php";s:9:"uninstall";s:37:"eDirectoryPlugin/eDirectoryPlugin.php";a:2:{i:0;s:16:"eDirectoryPlugin";i:1;s:9:"uninstall";}s:27:"wp-super-cache/wp-cache.php";s:23:"wpsupercache_deactivate";}";}

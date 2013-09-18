@@ -1,1 +1,0 @@
-ϫ8R<?php exit; ?>a:1:{s:7:"content";a:3:{s:12:"is_valid_key";s:1:"1";s:7:"version";s:3:"1.7";s:3:"url";s:193:"http://s3.amazonaws.com/gravityforms/addons/userregistration/gravityformsuserregistration_1.7.zip?AWSAccessKeyId=1603BBK66770VCSCJSG2&Expires=1379508928&Signature=pMZyBurQgMgdEM5us9gn0IhkEdc%3D";}}

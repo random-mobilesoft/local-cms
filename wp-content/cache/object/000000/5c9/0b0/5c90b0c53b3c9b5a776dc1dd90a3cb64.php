@@ -1,6 +1,0 @@
-˜£8R<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:5;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2013-08-06 10:08:16";s:13:"post_date_gmt";s:19:"2013-08-06 10:08:16";s:12:"post_content";s:337:"&nbsp;
-
-<img class="alignnone  wp-image-363" alt="slide_1" src="http://resourcesat.local.mobi/wp-content/uploads/2013/08/slide_1.png" width="824" height="262" />
-<img class="alignnone size-full wp-image-364" alt="slide_2" src="http://resourcesat.local.mobi/wp-content/uploads/2013/08/slide_2.png" width="824" height="262" />
-
-&nbsp;";s:10:"post_title";s:4:"Home";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:4:"home";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-09-16 04:57:26";s:17:"post_modified_gmt";s:19:"2013-09-16 04:57:26";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:31:"http://localmobi.loc/?page_id=5";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,7 +1,0 @@
-/*
-*  Tab
-*
-*  @description: 
-*  @since: 3.5.8
-*  @created: 17/01/13
-*/(function(e){e(document).live("acf/setup_fields",function(t,n){e(n).find(".field_type-tab").each(function(){var t=e(this),n=t.find(".acf-tab"),r=n.attr("data-id"),i=n.html(),s=t.closest(".acf_postbox"),o=s.children(".inside");if(n.hasClass("acf-tab-added"))return;n.addClass("acf-tab-added");o.children(".acf-tab-group").exists()||o.children(".field_type-tab:first").before('<ul class="hl clearfix acf-tab-group"></ul>');o.children(".acf-tab-group").append('<li class="field_key-'+r+'" data-field_key="'+r+'"><a class="acf-tab-button" href="#" data-id="'+r+'">'+i+"</a></li>")});e(n).find(".acf-tab-group").each(function(){e(this).find("li:first a").trigger("click")})});e(".acf-tab-button").live("click",function(){var t=e(this),n=t.attr("data-id"),r=t.closest("ul"),i=r.closest(".acf_postbox").children(".inside");r.find("li").removeClass("active");t.parent("li").addClass("active");i.children(".field_type-tab").each(function(){var t=e(this);t.hasClass("field_key-"+n)?t.nextUntil(".field_type-tab").removeClass("acf-tab_group-hide").addClass("acf-tab_group-show"):t.nextUntil(".field_type-tab").removeClass("acf-tab_group-show").addClass("acf-tab_group-hide")});e(this).trigger("blur");return!1})})(jQuery);

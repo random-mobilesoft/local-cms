@@ -1,7 +1,0 @@
-¥8R<?php exit; ?>a:1:{s:7:"content";s:1278:"[vc_row][vc_column width="1/2"][vc_column_text]
-<h3 style="text-align: center;"><span style="color: #339cf8;">Hire a Designer to Built it!</span> <a title="Professional Mobile Website Design" href="http://www.local.mobi/hire-a-pro/"><img class="aligncenter  wp-image-1120" alt="hire a pro" src="http://www.local.mobi/wp-content/uploads/2013/08/hire-a-pro.png" width="268" height="354" /></a></h3>
-<p style="text-align: center;"><a title="Hire A Pro" href="http://www.local.mobi/hire-a-pro/"><img class="aligncenter  wp-image-1008" alt="hire a pro plan form" src="http://www.local.mobi/wp-content/uploads/2013/08/hire-a-pro-plan-form.png" width="280" height="56" /></a></p>
-[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]
-<p style="text-align: center;"><img class="aligncenter  wp-image-1397" alt="speak with a local.mobi designer today" src="http://www.local.mobi/wp-content/uploads/2013/08/speak-with-a-local.mobi-designer-today.png" width="250" height="270" /></p>
-<p style="text-align: center;"><img class="aligncenter  wp-image-1400" alt="pro designer mobile build screen shots" src="http://www.local.mobi/wp-content/uploads/2013/08/pro-designer-mobile-build-screen-shots.png" width="254" height="154" /></p>
-[/vc_column_text][/vc_column][/vc_row]";}
