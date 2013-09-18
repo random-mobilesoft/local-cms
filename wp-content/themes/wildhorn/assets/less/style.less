@@ -1,0 +1,77 @@
+/*
+Theme Name: Wildhorn
+Version: 1.02b
+Theme URI: http://mountainthemes.com
+Author: Luca Bertaiola
+Description: Minimal Full Screen Theme
+License: GNU General Public License
+License URI: http://themeforest.net/licenses/regular
+Tags: responsive, minimal, full-screen, multimedia
+*/
+
+// imports
+
+@import "grid";
+@import "isotope";
+@import "easings";
+@import "mixins";
+@import "animations";
+
+// font families
+
+@font-family-default                : 'Helvetica Neue', Helvetica, Arial, sans-serif;
+@font-family-menu                   : Arial, sans-serif;
+@font-family-headings               : 'Roboto', sans-serif;
+
+// size
+
+@size                               : 6px;
+@size-font                          : @size * 2 + 2px;
+@size-baseline                      : @size * 3;
+@size-footer                        : @size * 6;
+@size-logo-width                    : @size * 60;
+@size-logo-height                   : @size * 10;
+@size-page                          : @size * 180;
+@size-audio-player                  : @size * 46;
+
+// colors
+
+@color-white                        : #fff;
+@color-black                        : #000;
+@color-01                           : #3892E3;
+@color-02                           : #FFA63F;
+@color-error                        : #fe3f54;
+@color-success                      : @color-01;
+@color-text                         : @color-white;
+@color-background                   : lighten( @color-black, 10% );
+@color-background-logo              : @color-black;
+@color-background-footer            : #000;
+@color-background-menu-over         : @color-01;
+@color-menu-anchors                 : @color-white;
+@color-button                       : @color-white;
+@color-button-text                  : @color-white;
+@color-border                       : @color-white;
+@color-anchor                       : @color-01;
+@color-headings                     : @color-02;
+@color-sidebar                      : @color-black;
+@color-home-boxes                   : @color-white;
+@color-home-boxes-bkg               : @color-black;
+@color-home-boxes-bkg-over          : @color-01;
+@color-home-button                  : @color-02;
+@color-home-button-text             : @color-text;
+@color-aside-bkg                    : @color-black;
+@color-scrollbar-track-background   : fade(@color-black, 25%);
+@color-scrollbar-track              : @color-01;
+@color-page-content                 : @color-black;
+@color-background-titles            : @color-01;
+@color-gallery-caption-loader       : @color-black;
+@color-collection-tags              : @color-01;
+@color-collection-items-bkg         : @color-black;
+
+@spinner                            : url('assets/img/spinner-2.gif');
+@pixel-pattern                      : url('assets/img/bkg-pattern.png');
+
+@import "grid-content";
+@import "custom";
+@import "structure";
+@import "structure-responsive";

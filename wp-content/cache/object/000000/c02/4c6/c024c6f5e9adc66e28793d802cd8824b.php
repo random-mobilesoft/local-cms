@@ -1,0 +1,1 @@
+Ы8R<?php exit; ?>a:1:{s:7:"content";a:3:{s:12:"is_valid_key";s:1:"1";s:7:"version";s:3:"1.9";s:3:"url";s:175:"http://s3.amazonaws.com/gravityforms/addons/paypal/gravityformspaypal_1.9.zip?AWSAccessKeyId=1603BBK66770VCSCJSG2&Expires=1379508929&Signature=mdIiwmhuzYh78NoNf7daa1d%2BIaE%3D";}}

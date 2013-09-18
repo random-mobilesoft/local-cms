@@ -1,0 +1,794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wildhorn\n"
+"POT-Creation-Date: 2013-05-14 17:29+0100\n"
+"PO-Revision-Date: 2013-05-14 17:29+0100\n"
+"Last-Translator: Luca Bertaiola <luca@designofseven.com>\n"
+"Language-Team: \n"
+"Language: En\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:22 comments.php:38
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:23 comments.php:39
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: functions.php:55
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:63
+msgid "Audio Tracks"
+msgstr ""
+
+#: functions.php:64
+msgid "Track"
+msgstr ""
+
+#: functions.php:65
+msgid "Add New Track"
+msgstr ""
+
+#: functions.php:66
+msgid "Edit Track"
+msgstr ""
+
+#: functions.php:119
+msgid "Page Tags"
+msgstr ""
+
+#: mthemes-blog.php:47
+msgid "Latest News"
+msgstr ""
+
+#: mthemes-blog.php:58
+msgid "by"
+msgstr ""
+
+#: mthemes-blog.php:61 mthemes-home.php:69 mthemes-home.php:106
+msgid "read more"
+msgstr ""
+
+#: mthemes-blog.php:71
+msgid "No posts found"
+msgstr ""
+
+#: mthemes-blog.php:72
+msgid "This section has no related posts."
+msgstr ""
+
+#: mthemes-blog.php:81
+msgid "next posts"
+msgstr ""
+
+#: mthemes-blog.php:82
+msgid "previous posts"
+msgstr ""
+
+#: mthemes-collection.php:26
+msgid "tags"
+msgstr ""
+
+#: mthemes-collection.php:29 vendor/acf/core/views/meta_box_fields.php:288
+msgid "all"
+msgstr ""
+
+#: mthemes-gallery.php:22
+msgid "prev"
+msgstr ""
+
+#: mthemes-gallery.php:23
+msgid "next"
+msgstr ""
+
+#: mthemes-home.php:55
+msgid "latest news"
+msgstr ""
+
+#: mthemes-home.php:89
+msgid "details"
+msgstr ""
+
+#: mthemes-page.php:21
+msgid " on "
+msgstr ""
+
+#: mthemes-page.php:23
+msgid ". Tags: "
+msgstr ""
+
+#: vendor/acf/acf.php:264
+msgid "Field&nbsp;Groups"
+msgstr ""
+
+#: vendor/acf/acf.php:265
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: vendor/acf/acf.php:266
+msgid "Add New"
+msgstr ""
+
+#: vendor/acf/acf.php:267
+msgid "Add New Field Group"
+msgstr ""
+
+#: vendor/acf/acf.php:268
+msgid "Edit Field Group"
+msgstr ""
+
+#: vendor/acf/acf.php:269
+msgid "New Field Group"
+msgstr ""
+
+#: vendor/acf/acf.php:270
+msgid "View Field Group"
+msgstr ""
+
+#: vendor/acf/acf.php:271
+msgid "Search Field Groups"
+msgstr ""
+
+#: vendor/acf/acf.php:272
+msgid "No Field Groups found"
+msgstr ""
+
+#: vendor/acf/acf.php:273
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: vendor/acf/acf.php:386 vendor/acf/core/views/meta_box_options.php:94
+msgid "Custom Fields"
+msgstr ""
+
+#: vendor/acf/acf.php:404 vendor/acf/acf.php:407
+msgid "Field group updated."
+msgstr ""
+
+#: vendor/acf/acf.php:405
+msgid "Custom field updated."
+msgstr ""
+
+#: vendor/acf/acf.php:406
+msgid "Custom field deleted."
+msgstr ""
+
+#: vendor/acf/acf.php:409
+#, php-format
+msgid "Field group restored to revision from %s"
+msgstr ""
+
+#: vendor/acf/acf.php:410
+msgid "Field group published."
+msgstr ""
+
+#: vendor/acf/acf.php:411
+msgid "Field group saved."
+msgstr ""
+
+#: vendor/acf/acf.php:412
+msgid "Field group submitted."
+msgstr ""
+
+#: vendor/acf/acf.php:413
+msgid "Field group scheduled for."
+msgstr ""
+
+#: vendor/acf/acf.php:414
+msgid "Field group draft updated."
+msgstr ""
+
+#: vendor/acf/acf.php:549
+msgid "Thumbnail"
+msgstr ""
+
+#: vendor/acf/acf.php:550
+msgid "Medium"
+msgstr ""
+
+#: vendor/acf/acf.php:551
+msgid "Large"
+msgstr ""
+
+#: vendor/acf/acf.php:552
+msgid "Full"
+msgstr ""
+
+#: vendor/acf/core/actions/export.php:23
+#: vendor/acf/core/views/meta_box_fields.php:57
+msgid "Error"
+msgstr ""
+
+#: vendor/acf/core/actions/export.php:30
+msgid "No ACF groups selected"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:42
+msgid "Add-ons"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:130
+msgid "Repeater Field"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:131
+msgid "Create infinite rows of repeatable data with this versatile interface!"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:137
+msgid "Gallery Field"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:138
+msgid "Create image galleries in a simple and intuitive interface!"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:144
+#: vendor/acf-options-page/acf-options-page.php:96
+msgid "Options Page"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:145
+msgid "Create global data to use throughout your website!"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:151
+msgid "Flexible Content Field"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:152
+msgid "Create unique designs with a flexible content layout manager!"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:161
+msgid "Gravity Forms Field"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:162
+msgid "Creates a select field populated with Gravity Forms!"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:168
+msgid "Date & Time Picker"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:169
+msgid "jQuery date & time picker"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:175
+msgid "Location Field"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:176
+msgid "Find addresses and coordinates of a desired location"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:182
+msgid "Contact Form 7 Field"
+msgstr ""
+
+#: vendor/acf/core/controllers/addons.php:183
+msgid "Assign one or more contact form 7 forms to a post"
+msgstr ""
+
+#: vendor/acf/core/controllers/export.php:50
+msgid "Export"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:365
+#: vendor/acf/core/controllers/field_group.php:427
+#: vendor/acf/core/controllers/field_groups.php:148
+msgid "Fields"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:366
+msgid "Location"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:367
+#: vendor/acf-options-page/acf-options-page.php:30
+msgid "Options"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:429
+msgid "Show Field Key:"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:430
+#: vendor/acf/core/fields/page_link.php:113
+#: vendor/acf/core/fields/page_link.php:134
+#: vendor/acf/core/fields/post_object.php:323
+#: vendor/acf/core/fields/post_object.php:344
+#: vendor/acf/core/fields/select.php:230 vendor/acf/core/fields/select.php:249
+#: vendor/acf/core/fields/taxonomy.php:352 vendor/acf/core/fields/user.php:294
+#: vendor/acf/core/fields/wysiwyg.php:236
+#: vendor/acf/core/views/meta_box_fields.php:198
+#: vendor/acf/core/views/meta_box_fields.php:221
+msgid "No"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:431
+#: vendor/acf/core/fields/page_link.php:112
+#: vendor/acf/core/fields/page_link.php:133
+#: vendor/acf/core/fields/post_object.php:322
+#: vendor/acf/core/fields/post_object.php:343
+#: vendor/acf/core/fields/select.php:229 vendor/acf/core/fields/select.php:248
+#: vendor/acf/core/fields/taxonomy.php:351 vendor/acf/core/fields/user.php:293
+#: vendor/acf/core/fields/wysiwyg.php:235
+#: vendor/acf/core/views/meta_box_fields.php:197
+#: vendor/acf/core/views/meta_box_fields.php:220
+msgid "Yes"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:608
+msgid "Front Page"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:609
+msgid "Posts Page"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:610
+msgid "Top Level Page (parent of 0)"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:611
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:612
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:620
+msgid "Default Template"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_group.php:712
+#: vendor/acf/core/controllers/field_group.php:733
+#: vendor/acf/core/controllers/field_group.php:740
+#: vendor/acf/core/fields/page_link.php:84
+#: vendor/acf/core/fields/post_object.php:269
+#: vendor/acf/core/fields/post_object.php:293
+#: vendor/acf/core/fields/relationship.php:534
+#: vendor/acf/core/fields/relationship.php:558
+#: vendor/acf/core/fields/user.php:238
+msgid "All"
+msgstr ""
+
+#: vendor/acf/core/controllers/field_groups.php:147
+msgid "Title"
+msgstr ""
+
+#: vendor/acf/core/controllers/upgrade.php:72
+msgid "Upgrade"
+msgstr ""
+
+#: vendor/acf/core/controllers/upgrade.php:616
+msgid "Modifying field group options 'show on page'"
+msgstr ""
+
+#: vendor/acf/core/controllers/upgrade.php:670
+msgid "Modifying field option 'taxonomy'"
+msgstr ""
+
+#: vendor/acf/core/controllers/upgrade.php:767
+msgid "Moving user custom fields from wp_options to wp_usermeta'"
+msgstr ""
+
+#: vendor/acf/core/fields/_base.php:120
+#: vendor/acf/core/views/meta_box_location.php:71
+msgid "Basic"
+msgstr ""
+
+#: vendor/acf/core/fields/checkbox.php:19
+#: vendor/acf/core/fields/taxonomy.php:328
+msgid "Checkbox"
+msgstr ""
+
+#: vendor/acf/core/fields/checkbox.php:20 vendor/acf/core/fields/radio.php:20
+#: vendor/acf/core/fields/select.php:23
+#: vendor/acf/core/fields/true_false.php:20
+msgid "Choice"
+msgstr ""
+
+#: vendor/acf/core/fields/color_picker.php:19
+msgid "Color Picker"
+msgstr ""
+
+#: vendor/acf/core/fields/color_picker.php:20
+#: vendor/acf/core/fields/date_picker/date_picker.php:20
+msgid "jQuery"
+msgstr ""
+
+#: vendor/acf/core/fields/dummy.php:19
+msgid "Dummy"
+msgstr ""
+
+#: vendor/acf/core/fields/email.php:19
+msgid "Email"
+msgstr ""
+
+#: vendor/acf/core/fields/file.php:19
+msgid "File"
+msgstr ""
+
+#: vendor/acf/core/fields/file.php:20 vendor/acf/core/fields/image.php:20
+#: vendor/acf/core/fields/wysiwyg.php:20 vendor/acf-gallery/gallery.php:23
+msgid "Content"
+msgstr ""
+
+#: vendor/acf/core/fields/file.php:130
+msgid "File Object"
+msgstr ""
+
+#: vendor/acf/core/fields/file.php:131
+msgid "File URL"
+msgstr ""
+
+#: vendor/acf/core/fields/file.php:132
+msgid "File ID"
+msgstr ""
+
+#: vendor/acf/core/fields/file.php:335 vendor/acf/core/fields/image.php:374
+msgid "Media attachment updated."
+msgstr ""
+
+#: vendor/acf/core/fields/image.php:19
+msgid "Image"
+msgstr ""
+
+#: vendor/acf/core/fields/image.php:126
+msgid "Image Object"
+msgstr ""
+
+#: vendor/acf/core/fields/image.php:127
+msgid "Image URL"
+msgstr ""
+
+#: vendor/acf/core/fields/image.php:128
+msgid "Image ID"
+msgstr ""
+
+#: vendor/acf/core/fields/message.php:19
+msgid "Message"
+msgstr ""
+
+#: vendor/acf/core/fields/message.php:20 vendor/acf/core/fields/tab.php:20
+#: vendor/acf-flexible-content/flexible-content.php:23
+#: vendor/acf-flexible-content/flexible-content.php:514
+msgid "Layout"
+msgstr ""
+
+#: vendor/acf/core/fields/number.php:19
+msgid "Number"
+msgstr ""
+
+#: vendor/acf/core/fields/page_link.php:19
+msgid "Page Link"
+msgstr ""
+
+#: vendor/acf/core/fields/page_link.php:20
+#: vendor/acf/core/fields/post_object.php:23
+#: vendor/acf/core/fields/relationship.php:23
+#: vendor/acf/core/fields/taxonomy.php:23 vendor/acf/core/fields/user.php:23
+msgid "Relational"
+msgstr ""
+
+#: vendor/acf/core/fields/password.php:19
+msgid "Password"
+msgstr ""
+
+#: vendor/acf/core/fields/post_object.php:22
+msgid "Post Object"
+msgstr ""
+
+#: vendor/acf/core/fields/radio.php:19
+msgid "Radio Button"
+msgstr ""
+
+#: vendor/acf/core/fields/radio.php:173
+msgid "Vertical"
+msgstr ""
+
+#: vendor/acf/core/fields/radio.php:174
+msgid "Horizontal"
+msgstr ""
+
+#: vendor/acf/core/fields/relationship.php:22
+msgid "Relationship"
+msgstr ""
+
+#: vendor/acf/core/fields/relationship.php:586
+msgid "Search"
+msgstr ""
+
+#: vendor/acf/core/fields/relationship.php:587
+msgid "Post Type Select"
+msgstr ""
+
+#: vendor/acf/core/fields/relationship.php:606
+msgid "Post Title"
+msgstr ""
+
+#: vendor/acf/core/fields/relationship.php:607
+#: vendor/acf/core/views/meta_box_location.php:72
+msgid "Post Type"
+msgstr ""
+
+#: vendor/acf/core/fields/select.php:22
+#: vendor/acf/core/fields/taxonomy.php:333 vendor/acf/core/fields/user.php:275
+msgid "Select"
+msgstr ""
+
+#: vendor/acf/core/fields/tab.php:19
+msgid "Tab"
+msgstr ""
+
+#: vendor/acf/core/fields/taxonomy.php:22
+msgid "Taxonomy"
+msgstr ""
+
+#: vendor/acf/core/fields/taxonomy.php:327 vendor/acf/core/fields/user.php:269
+msgid "Multiple Values"
+msgstr ""
+
+#: vendor/acf/core/fields/taxonomy.php:329 vendor/acf/core/fields/user.php:271
+msgid "Multi Select"
+msgstr ""
+
+#: vendor/acf/core/fields/taxonomy.php:331 vendor/acf/core/fields/user.php:273
+msgid "Single Value"
+msgstr ""
+
+#: vendor/acf/core/fields/taxonomy.php:332
+msgid "Radio Buttons"
+msgstr ""
+
+#: vendor/acf/core/fields/taxonomy.php:369
+msgid ""
+"Load value based on the post's terms and update the post's terms on save"
+msgstr ""
+
+#: vendor/acf/core/fields/taxonomy.php:386
+msgid "Term Object"
+msgstr ""
+
+#: vendor/acf/core/fields/taxonomy.php:387
+msgid "Term ID"
+msgstr ""
+
+#: vendor/acf/core/fields/text.php:19
+msgid "Text"
+msgstr ""
+
+#: vendor/acf/core/fields/text.php:97 vendor/acf/core/fields/textarea.php:97
+msgid "None"
+msgstr ""
+
+#: vendor/acf/core/fields/text.php:98 vendor/acf/core/fields/textarea.php:99
+msgid "HTML"
+msgstr ""
+
+#: vendor/acf/core/fields/textarea.php:19
+msgid "Text Area"
+msgstr ""
+
+#: vendor/acf/core/fields/textarea.php:98
+msgid "auto &lt;br /&gt;"
+msgstr ""
+
+#: vendor/acf/core/fields/true_false.php:19
+msgid "True / False"
+msgstr ""
+
+#: vendor/acf/core/fields/user.php:22
+msgid "User"
+msgstr ""
+
+#: vendor/acf/core/fields/wysiwyg.php:19
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: vendor/acf/core/fields/date_picker/date_picker.php:19
+msgid "Date Picker"
+msgstr ""
+
+#: vendor/acf/core/fields/date_picker/date_picker.php:52
+#: vendor/acf/core/fields/date_picker/date_picker.php:132
+msgid "Done"
+msgstr ""
+
+#: vendor/acf/core/fields/date_picker/date_picker.php:53
+#: vendor/acf/core/fields/date_picker/date_picker.php:133
+msgid "Today"
+msgstr ""
+
+#: vendor/acf/core/fields/date_picker/date_picker.php:56
+#: vendor/acf/core/fields/date_picker/date_picker.php:136
+msgid "Show a different month"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_fields.php:23
+#: vendor/acf-flexible-content/flexible-content.php:523
+msgid "New Field"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_fields.php:24
+#: vendor/acf-flexible-content/flexible-content.php:524
+msgid "new_field"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_fields.php:57
+msgid "Field type does not exist"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_fields.php:263
+#: vendor/acf/core/views/meta_box_location.php:113
+msgid "is equal to"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_fields.php:264
+#: vendor/acf/core/views/meta_box_location.php:114
+msgid "is not equal to"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_fields.php:289
+msgid "any"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:73
+msgid "Logged in User Type"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:75
+#: vendor/acf/core/views/meta_box_location.php:76
+msgid "Page"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:77
+msgid "Page Type"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:78
+msgid "Page Parent"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:79
+msgid "Page Template"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:81
+#: vendor/acf/core/views/meta_box_location.php:82
+msgid "Post"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:83
+msgid "Post Category"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:84
+msgid "Post Format"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:85
+msgid "Post Taxonomy"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:87
+msgid "Other"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:88
+msgid "Taxonomy Term (Add / Edit)"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:89
+msgid "User (Add / Edit)"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_location.php:90
+msgid "Media Attachment (Edit)"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:50
+msgid "Normal"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:51
+msgid "Side"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:70
+msgid "No Metabox"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:71
+msgid "Standard Metabox"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:92
+msgid "Content Editor"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:93
+msgid "Excerpt"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:95
+msgid "Discussion"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:96
+msgid "Comments"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:97
+msgid "Revisions"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:98
+msgid "Slug"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:99
+msgid "Author"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:100
+msgid "Format"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:101
+msgid "Featured Image"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:102
+msgid "Categories"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:103
+msgid "Tags"
+msgstr ""
+
+#: vendor/acf/core/views/meta_box_options.php:104
+msgid "Send Trackbacks"
+msgstr ""
+
+#: vendor/acf-flexible-content/flexible-content.php:22
+msgid "Flexible Content"
+msgstr ""
+
+#: vendor/acf-flexible-content/flexible-content.php:189
+msgid "+ Add Row"
+msgstr ""
+
+#: vendor/acf-flexible-content/flexible-content.php:493
+msgid "Add Row"
+msgstr ""
+
+#: vendor/acf-flexible-content/flexible-content.php:576
+msgid "Row"
+msgstr ""
+
+#: vendor/acf-flexible-content/flexible-content.php:577
+msgid "Table"
+msgstr ""
+
+#: vendor/acf-gallery/gallery.php:22
+msgid "Gallery"
+msgstr ""
+
+#: vendor/acf-options-page/acf-options-page.php:229
+msgid "Options Updated"
+msgstr ""
