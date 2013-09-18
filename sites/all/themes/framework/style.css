@@ -59,34 +59,23 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 h1, .h1 {
-  font-size: 2em;
-  line-height: 1.5;
-  margin-top: 0.75em;
+
 }
 
 h2, .h2 {
-  font-size: 1.5em;
-  line-height: 1;
-  margin-top: 1em;
+
 }
 
 h3, .h3 {
-  font-size: 1.25em;
-  line-height: 1.2;
-  margin-top: 1.2em;
+
 }
 
 h4, h5, h6, .h4, .h5, .h6 {
-  font-size: 1em;
-  font-weight: bold;
-  line-height: 1.5;
-  margin-top: 1.5em;
+
 }
 
 p {
-  font-size: 1em;
-  line-height: 1.5;
-  margin: 0 0 1.5em 0;
+
 }
 
 a { color: #069; text-decoration: none; }
@@ -121,8 +110,7 @@ th { padding-right: 1em; }
 
 #container {
   margin: 0 auto;
-  padding: 0 10px;
-  width: 940px;
+  width: 1000px;
 }
 
 /**
@@ -208,14 +196,13 @@ body.sidebar-second #sidebar-second {
  */
 
 #header {
-  margin: 0;
-  padding: 2.5em 0 0;
+
   position: relative;
 }
 
 #header #logo {
   float: left;
-  margin: 0 1em 1.5em 0;
+  padding: 36px 0 36px 0;
 }
 
 #header #site-name-slogan {
@@ -461,8 +448,6 @@ ul.secondary a.active {
  */
 
 #footer {
-  clear: both;
-  padding: 1.5em 0;
   position: relative;
 }
 
@@ -487,3 +472,173 @@ ul.secondary a.active {
 
 /* display block */
 .display-block { display: block; }
+
+/*
+    Menu
+*/
+
+ul.nice-menu a {
+    padding: 0!important;
+    font-size: 16px;
+    color: #6d6e71;
+    font-weight: 600;
+    text-decoration: none;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+ul.nice-menu li {
+    list-style: none;
+    width: 142px;
+    float: left;
+    border-left: 1px solid #fff;
+}
+
+ul.nice-menu li.first {
+    border-left:none ;
+}
+ul.nice-menu ul li.first {
+    border-bottom:none;
+    border-left: 1px solid #fff;
+}
+ul.nice-menu ul li  {
+    border: 1px solid #fff;
+}
+
+ul.nice-menu-down {
+    width: 1000px;
+    height: 50px;
+    position: relative;
+    margin: 0 auto;
+    background: #e2e2e2;
+}
+
+ul.nice-menu-down ul {
+    top:50px
+}
+
+ul.nice-menu li.menuparent ul, #header-region ul.nice-menu li.menuparent ul {
+    background: #e2e2e2;
+}
+
+ul.nice-menu li:hover {
+    background: #53c6f1;
+}
+
+ul.nice-menu a:hover {
+    color: #fff;
+}
+
+
+ul.nice-menu li.menuparent:hover {
+    background: #53c6f1;
+}
+
+ul.nice-menu li.menuparent a:hover {
+    color: #fff;
+}
+
+ul.nice-menu li.active-trail {
+    background: #53c6f1;
+}
+
+ul.nice-menu li.active-trail a{
+    color: #fff;
+}
+
+.front #page-title {
+    display: none;
+}
+
+
+#widget_pager_bottom_slider-block {
+    position: relative;
+    margin: -25px auto;
+    z-index: 999;
+    width: 1000px;
+    text-align: center;
+    overflow: hidden;
+}
+
+#widget_pager_bottom_slider-block .views-slideshow-pager-field-item {
+    width: 15px;
+    height: 15px;
+    display: inline-block
+}
+
+#widget_pager_bottom_slider-block .views-slideshow-pager-field-item .views-content-counter {
+    text-indent: 9999px;
+    color: transparent;
+    background: url(img/sld_nav.png) no-repeat -15px 1px;
+    display: block;
+    cursor:pointer;
+}
+
+#widget_pager_bottom_slider-block .views-slideshow-pager-field-item.active .views-content-counter {
+    background: url(img/sld_nav.png) no-repeat 2px 1px;
+}
+
+#footer {
+    height: 220px;
+    width: 100%;
+    background: #6d6e71;
+    padding-top: 50px;
+}
+
+.footer-row {
+    width: 298px;
+    margin-right: 53px;
+    text-align: center;
+    float: left;
+}
+.contacts {
+    position: relative;
+    height: 125px;
+}
+
+.contacts p{
+    font-size: 18px;
+    color:#fff;
+    line-height: 22px;
+}
+
+.contacts h4{
+    font-size: 18px;
+    color:#fff;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.contacts a{
+    font-size: 18px;
+    color:#53c6f1;
+    text-decoration: none;
+    cursor: pointer;
+    line-height: 22px;
+}
+
+.footer-row.last {
+    margin-right: 0px;
+}
+
+.social {
+    height: 70px;
+    text-align: center;
+}
+
+.footer_copyright {
+    height: 24px;
+    text-align: center;
+}
+
+.footer_copyright p {
+    color:#fff;
+    font-size: 12px;
+}
+
+.container-footer {
+    width: 1000px;
+    margin: 0 auto;
+}

@@ -61,7 +61,7 @@
         <?php endif; ?>
       </nav> <!-- /#navigation -->
     <?php endif; ?>
-    <?php if ($breadcrumb): print $breadcrumb; endif;?>
+    <?php //if ($breadcrumb): print $breadcrumb; endif;?>
   </header> <!-- /#header -->
 
   <section id="main" role="main" class="clearfix">
@@ -88,10 +88,9 @@
       <?php print render($page['sidebar_second']); ?>
     </aside>  <!-- /#sidebar-second -->
   <?php endif; ?>
+</div> <!-- /#container -->
 
   <footer id="footer" role="contentinfo" class="clearfix">
     <?php print render($page['footer']) ?>
     <?php print $feed_icons ?>
   </footer> <!-- /#footer -->
-
-</div> <!-- /#container -->
